@@ -31,16 +31,19 @@
           </br>
           
           <label for="cloud9">
-            <input type="radio" id="aws" name="product" onClick="disablebtnProceed()"/>
+             <input type="radio" id="cloud9"name="product" onClick="disablebtnProceed()"/>
             AWS @ $200
           </label>
           
           </br>
           
-          <label for="Gmail"
-            <input type="radio" id="aws" name="product" onClick="disablebtnProceed()"/>
+          <label for="Gmail">
+           <input type="radio" id="Gmail" name="product" onClick="disablebtnProceed()"/>
             AWS @ $400
           </label>
+          </br>
+          </br>
+          
           
            <label for="subtotal">
                Sub Total
