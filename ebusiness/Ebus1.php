@@ -14,7 +14,7 @@
         
         </br>
         
-        <form method="POST" action="Ebus2.php"
+        <form method="POST" action="Ebus2.php">
         
         <label for="salesforce">
             <input type="radio" id="salesforce" name="product" checked onClick="disablebtnProceed()"/>
