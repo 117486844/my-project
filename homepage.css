@@ -58,8 +58,9 @@ ul li a:hover{
 
 }
 marquee {
-  
-}
+    height: 20%;
+    width: 50%;
+  }
 
 @keyframes move {
     to {left:0%;opacity:1}
