@@ -4,14 +4,23 @@
 }
 
 #section1{
-    background: red;
+    background-image:url("https://handluggageonly.co.uk/wp-content/uploads/2015/09/IMG_5557.jpg");
+    color: black;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 #section2{
-    background: green;
+    background-image: url("http://www.telegraph.co.uk/content/dam/Travel/Destinations/Asia/China/china-touroperators-beaut-xlarge.jpg");
+     color: black;
+      background-repeat: no-repeat;
+      background-size: cover;
 }
 
 
 #section3{
-    background: blue;
+    background-image: url("https://www.housingwire.com/ext/resources/images/editorial/A-New-Big-Images/states/New-York-City.jpg?1453402066");
+     color: black;
+      background-repeat: no-repeat;
+      background-size: cover;
 }
