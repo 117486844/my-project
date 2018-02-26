@@ -1,6 +1,6 @@
 .section{
     text-align:center;
-    color:white;
+    color:Black;
 }
 
 #section1{
@@ -20,6 +20,33 @@
 
 #section3{
     background-image: url("https://www.housingwire.com/ext/resources/images/editorial/A-New-Big-Images/states/New-York-City.jpg?1453402066");
+     color: black;
+      background-repeat: no-repeat;
+      background-size: cover;
+}
+
+#cloud9{
+    background-image: url("https://cdn.slant.co/1af70de1-29ca-4349-94f5-09e768d5160f/-/format/jpeg/-/progressive/yes/-/scale_crop/480x270/center/");
+     color: black;
+      background-repeat: no-repeat;
+      background-size: cover;
+}
+
+#Gmail{
+    background-image: url("https://www.digitalunite.com/sites/default/files/images/Screen%20Shot%202012-11-28%20at%207.53.48%20AM.png");
+     color: black;
+      background-repeat: no-repeat;
+      background-size: cover;
+}
+
+#SalesForce{
+    background-image: url("http://www.bridgethegap.com/wp-content/uploads/2017/02/salesforce-best-practices.png");
+      background-repeat: no-repeat;
+      background-size: cover;
+}
+
+#Amazon{
+    background-image: url("http://g-ec2.images-amazon.com/images/G/01/social/api-share/amazon_logo_500500.png");
      color: black;
       background-repeat: no-repeat;
       background-size: cover;
