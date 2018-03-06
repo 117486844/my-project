@@ -52,9 +52,10 @@ ul li a:hover{
 
 #image img{
  width: 20%;
- height: 40%;
+ height: 1000%;
  position:absolute;
- top:10em;
+ left:2%;
+ top:900%;
  animation:move1 3.5s ease;
 
 
@@ -64,7 +65,7 @@ ul li a:hover{
 
 #image2 img{
  width: 30%;
- height: 40%;
+ height: 1000%;
  position:absolute;
  top:10em;
  left:20%;
@@ -75,7 +76,7 @@ ul li a:hover{
 
 #image3 img{
  width: 25%;
- height: 40%;
+ height: 1000%;
  position:absolute;
  top:10em;
  left:50%;
@@ -86,7 +87,7 @@ ul li a:hover{
 
 #image4 img{
  width: 25%;
- height: 40%;
+ height: 1000%;
  position:absolute;
  top:10em;
  left:75%;
@@ -95,13 +96,15 @@ ul li a:hover{
 
 }
 marquee {
-    height: 20%;
+    height: 80%;
     width: 100%;
+    position:absolute;
+    top:90%;
 
   }
 
 @keyframes move1 {
-    to {left:0%;opacity:1}
+    to {;left:0%;opacity:1}
     from{left:80%;opacity:0 }
 }
 
