@@ -71,9 +71,6 @@ $email =$_REQUEST['email'];
         ?>
     
       
-        </div>
-        <div class="container2">
-            <a href=" ../homepage.html">Is117486844</a>
-        </div>
+        
     </body>
     </html>
