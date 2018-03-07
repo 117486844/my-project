@@ -13,7 +13,7 @@ $email =$_REQUEST['email'];
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script type="text/javascript" src="number.js"></script>
       
-     
+     <link href="https://fonts.googleapis.com/css?family=Playfair+Display" rel="stylesheet">
      </head>
     <body style="background-color:lightgrey;">
         
@@ -44,10 +44,17 @@ $email =$_REQUEST['email'];
   text-decoration:none;
       color:black;
   }
+  body{
+  background-image: url("http://reisetips.nettavisen.no/wp-content/uploads/2013/02/whitehaven.jpg");
+  background-repeat: no-repeat;
+  background-size:cover;
+ 
+}
   </style>
+  
    <div class="container1">
-            <img src="https://www.surfertoday.com/images/stories/breakingwave.jpg" alt="wave" width="1440" height="250" >
-           <div class="centered"><h1>Wave crest Communications</h1></div>
+            
+           <div class="centered"><h1>Quavo Ltd</h1></div>
        
         
         <Stong><h1>Receipt</h1></Stong>
@@ -66,7 +73,7 @@ $email =$_REQUEST['email'];
       
         </div>
         <div class="container2">
-            <a href=" ../homepage.html">Is1113117326096</a>
+            <a href=" ../homepage.html">Is117486844</a>
         </div>
     </body>
     </html>

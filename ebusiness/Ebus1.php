@@ -9,16 +9,19 @@
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
         <script type="text/javascript" src="cost_calc.js"></script>
   
+  
+  
+  <link href="https://fonts.googleapis.com/css?family=Playfair+Display" rel="stylesheet">
    
       <style>
       .container{
     display:inline;
 }
-.container1{
-     top:0%;
-  width:100%;
-  height:250%;
-  text-align: center;
+body{
+  background-image: url("http://reisetips.nettavisen.no/wp-content/uploads/2013/02/whitehaven.jpg");
+  background-repeat: no-repeat;
+  background-size:cover;
+  font-family: 'Playfair Display', serif;
 }
 /* Centered text */
 .centered {
@@ -26,7 +29,7 @@
     top: 20%;
     left: 50%;
     transform: translate(-50%, -50%);
-   
+    font-family: 'Playfair Display', serif;
   }
  
 </style>
@@ -34,8 +37,8 @@
     
     <body style="background-color: lightgrey;">
         <div class="container1">
-            <img src="https://www.surfertoday.com/images/stories/breakingwave.jpg" alt="wave" width="1440" height="250" >
-           <div class="centered"><h1>Wave crest Communications</h1></div>
+            
+           <div class="centered"><h1>Quavo Ltd</h1></div>
        
        
        

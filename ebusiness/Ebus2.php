@@ -5,7 +5,7 @@ session_start();
 <!DOCTYPE html>
 <html>
     <head>
-        
+        <link href="https://fonts.googleapis.com/css?family=Playfair+Display" rel="stylesheet">
         <title> Enter Details</title>
         
         
@@ -13,7 +13,7 @@ session_start();
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     </head>
     
-    <body style="background-color: lightgrey;">
+    
         
         <style>/* Centered text */
 .centered {
@@ -24,11 +24,17 @@ session_start();
     
     
 }
-          
+  body{
+  background-image: url("http://reisetips.nettavisen.no/wp-content/uploads/2013/02/whitehaven.jpg");
+  background-repeat: no-repeat;
+  background-size:cover;
+  font-family: 'Playfair Display', serif;
+ 
+}        
         </style>
           <div class="container1">
-            <img src="https://www.surfertoday.com/images/stories/breakingwave.jpg" alt="wave" width="1440" height="250" >
-           <div class="centered"><h1>Wave Crest Communations</h1></div>
+            
+           <div class="centered"><h1>Quavo Ltd</h1></div>
        
        
      
@@ -79,7 +85,7 @@ session_start();
            
             ?>
         
-        <script type="text/javascript" src="ebus2_validator.js"></script>
+        <script type="text/javascript" src="Ebus2_validator.js"></script>
         
         
     </body>
